@@ -17,7 +17,7 @@ Install them using:
 
 ```bash
 pip install requests pillow ImageHash pyaudio pydub
-
+```
 Download steps:
 
 Download the full code.
@@ -30,6 +30,7 @@ Run the application by executing:
 
 ```bash
 python main.py
+```
 
 Once started, please wait a few moments for the content to load. Memes will begin appearing automatically.
 
