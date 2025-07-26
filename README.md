@@ -46,3 +46,5 @@ The program will automatically begin processing and generate the final video fil
 finish.mp4
 
 ⏳ Please be patient — rendering the video may take some time depending on your system performance.
+
+If you find this helpful I would appriciate if you would leave me a small tip :) [Ko-Fi](https://ko-fi.com/asafusa553)
