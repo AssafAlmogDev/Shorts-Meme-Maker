@@ -1,5 +1,5 @@
 # Shorts Meme Maker
-Will show you memes, read them and it will auto generate a yt short or reel.
+This program displays a series of memes for you to read and automatically generates a YouTube Short or Reel video based on them.
 
 ## Installation Requirements
 
