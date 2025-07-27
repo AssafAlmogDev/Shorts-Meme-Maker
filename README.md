@@ -47,4 +47,6 @@ finish.mp4
 
 ⏳ Please be patient — rendering the video may take some time depending on your system performance.
 
+**The video will also need Ko-Fi.png in the folder with the .py, but you can remove the section in the code.**
+
 If you find this helpful I would appriciate if you would leave me a small tip :) [Ko-Fi](https://ko-fi.com/asafusa553)
